@@ -1,4 +1,4 @@
-I'm Yağmur, Currently learning HTML, CSS, and JavaScript.
+I'm Yağmur, Currently learning HTML, CSS, JavaScript and React.
 
 
 
